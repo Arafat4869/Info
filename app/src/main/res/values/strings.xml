@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Info</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Select_Degree" />
+    <string name="choose_degree">Choose Degree</string>
+    <string name="graduation">Graduation</string>
+    <string name="undergraduate">Undergraduate</string>
+    <string name="graduate">Graduate</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="date">Date</string>
+    <string name="ok">OK</string>
+</resources>
